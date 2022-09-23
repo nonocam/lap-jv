@@ -293,3 +293,5 @@ function lap(dim, cost) {
     v: v
   };
 }
+
+module.exports = { lap };

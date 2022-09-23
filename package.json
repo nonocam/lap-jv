@@ -1,0 +1,26 @@
+{
+  "name": "lap-jv",
+  "version": "1.0.0",
+  "description": "A shortest augmenting path algorithm for dense and sparse linear assignment problems",
+  "main": "lap.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "npx jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nonocam/lap-jv.git"
+  },
+  "author": "roy_jonker@magiclogic.com",
+  "contributors": [
+    "Valentin Sawadski <vsaw> (https://github.com/vsaw/)"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nonocam/lap-jv/issues"
+  },
+  "homepage": "https://github.com/nonocam/lap-jv#readme",
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  }
+}
